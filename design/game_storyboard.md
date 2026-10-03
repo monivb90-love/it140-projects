@@ -5,50 +5,40 @@
 
 ## Theme and Storyline
 
-**Theme:**
+##THEME
 
 TODO: Name and briefly describe your game's theme.
+ ##Welcome to the league## is a game about a rookie who goes undrafted and has to navigate around to gather up all of his equipment for training camp before running into Coach Villain. 
 
 **Storyline:**
+##I just got signed to my first NFL contract as a rookie and must navigate the training camp, so I don’t get cut. The villain will be the coach because that is the person that will be cutting you off the team. The rooms I will need so I can make the team are the equipment room, cafeteria, weight room, rehab recovery space, practice field, classroom, locker room and coaches’ office. The six items I will be grabbing along the way are helmets, pads, cleats, playbook, a sandwich and treatment.
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+
 
 ## Rooms
 
-Project One requires a minimum of eight rooms.
-
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
-Add more rooms if your design needs them.
+1. TODO: Start room - Locker room
+2. TODO: Cafeteria
+3. TODO: Equipment Room
+4. TODO: Classroom
+5. TODO: Weight room
+6. TODO: Practice Field
+7. TODO: Recovery space
+8. TODO: Villain room - Coaches Office
 
 ## Items
+##The six items I will be grabbing along the way are helmets, pads, cleats, playbook, a sandwich and treatment. 
 
-With the minimum eight-room design, Project One requires at least six items.
-Every room except the start room and villain room must contain one item.
-
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
-
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
+1. TODO: Sandwich
+2. TODO: Helmets
+3. TODO: Playbook
+4. TODO: Pads
+5. TODO: Cleats
+6. TODO: Treatment
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
-
-## Storyboard and Map Check
+TODO: Coach Villain is sitting in his office waiting for you. He wants to make sure you are prepared for the first last training camp practice. 
 
 Before submitting, compare this storyboard with `game_map.drawio`.
 
